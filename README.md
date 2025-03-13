@@ -1,6 +1,6 @@
 <div align="center">
 
-# QMaps [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+# QMaps [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 Maps application that uses quantum randomness to generate directions and marker points
 
